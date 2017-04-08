@@ -1,4 +1,4 @@
 # stylish-orwell
-A CSS stylesheet to improve the typography and readability of George Orwell's essays located under [www.orwell.ru/library/essays/](http://www.orwell.ru/library/essays/). This stylesheet is for use with the Stylish [Chrome extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) and [Firefox Add-on](https://addons.mozilla.org/en-GB/firefox/addon/stylish/). 
+A CSS stylesheet to improve the typography and readability of George Orwell's essays located under [www.orwell.ru/library/essays/](http://www.orwell.ru/library/essays/). This stylesheet is for use with the Stylish browser extension available for [Chrome](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en), [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/stylish/), [Safari](https://safari-extensions.apple.com/details/?id=com.sobolev.stylish-5555L95H45) and [Opera](https://addons.opera.com/en-gb/extensions/details/stylish/).
 
 Shared in the userstyles.org directory at [https://userstyles.org/styles/141074/](https://userstyles.org/styles/141074/).
