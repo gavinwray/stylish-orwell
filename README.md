@@ -4,7 +4,7 @@ stylish-orwell
 This CSS stylesheet improves the readability of George Orwell's essays located under [www.orwell.ru/library/essays/](http://www.orwell.ru/library/essays/). It's intended for use with the Stylish browser extension.
 
 
-How to install via userstyles.org directory
+Install via userstyles.org directory
 -----------------------------------------------
 
 1.  Add the Stylish extension to your browser. The extension is available for [Chrome](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en), [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/stylish/), [Safari](https://safari-extensions.apple.com/details/?id=com.sobolev.stylish-5555L95H45) and [Opera](https://addons.opera.com/en-gb/extensions/details/stylish/).
@@ -18,7 +18,7 @@ How to install via userstyles.org directory
 5. The Stylish extension should prompt you that styles are available for the current site. Accept the prompt and add the styles.
 
 
-How to install manually
+Install manually
 -----------------------
 
 In Google Chrome the Stylish extension may not reliably prompt you that styles are available for the current site. Manually add the stylesheet as follows:
